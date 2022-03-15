@@ -15,7 +15,12 @@ Praktikum 1 - Pemrograman Web
 #### Menyimpan sebuah file gambar di dalam satu folder bersama file html untuk menyisipkan gambar ke dalam web. Ukuran gambar dapat disesuaikan menggunakan atribut _width_ dan _height_.
 
 ## Langkah 5
-#### Membuat sebuah hyperlink sebelum heading 1,
+#### Membuat sebuah hyperlink sebelum heading 1
+
+## Hasil Tugas
+![Screenshot (13)](https://user-images.githubusercontent.com/72727701/158282232-90698226-9ad5-4c48-9f9e-04181bc02d08.png)
+
+
 
 
 # Jawab Pertanyaan Berikut
